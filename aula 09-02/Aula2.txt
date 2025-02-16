@@ -1,0 +1,25 @@
+print('Olá Mundo!')
+
+
+--------------------------------------------------------------------------------------------------
+variaveis.py
+
+# Variaveis - Tipos Primitivos
+nome = 'Davi' # String
+idade = 21 # Int
+altura = 1.72 # Float
+tem_filhos = False # Booleano
+
+print(nome)
+print(type(nome))
+
+-------------------------------------------------------------------------------------------------
+entrada.py
+
+
+# Entrada (input)
+nome = input('Digite seu nome: ')
+idade = input('Digite sua idade: ')
+
+# Saída (f-string)
+print(f'Meu nome é {nome} e tenho {idade} anos')
